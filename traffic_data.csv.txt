@@ -1,0 +1,9 @@
+area,time,vehicle_count,avg_speed,reason
+T Nagar,8,80,35,Regular
+T Nagar,18,150,20,Peak
+Adyar,9,60,40,Regular
+Adyar,19,130,22,Peak
+Velachery,10,70,38,Regular
+Velachery,20,160,18,Accident
+Tambaram,8,50,45,Regular
+Tambaram,18,140,25,Construction
